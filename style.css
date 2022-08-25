@@ -1,0 +1,31 @@
+.container {
+  margin-top: 140px;
+  padding-top: 40px;
+  border: 10px dotted blue;
+  border-radius: 300px;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: black;
+
+}
+
+#counter {
+  font-size: 50px;
+  color: white;
+  border: 8px dotted blue;
+  border-radius: 20px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.btn {
+  width: 65px;
+  height: 65px;
+  display: flex;
+  display: inline-grid;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
